@@ -5,3 +5,4 @@ Git tracks changes of files.
 Create a new branch is quite and simple.
 Create a new dev branch.
 Modify on chrome and test pull on PC.
+Use GUI tool SourceTree to manager code.
